@@ -125,7 +125,7 @@ public class WayFinder {
         }
     }
 
-    private void writeToFile(List<City> fastestRoute, int totalTime, String fileName) {
+     private void writeToFile(List<City> fastestRoute, int totalTime, String fileName) {
         FileWriter fileWriter = null;
         Formatter formatter = null;
 
