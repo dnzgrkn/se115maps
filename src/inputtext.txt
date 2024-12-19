@@ -1,0 +1,11 @@
+6
+A B C D E F
+7
+A F 110
+A B 30
+A C 10
+B D 20
+C D 50
+C E 40
+D E 10
+a d
