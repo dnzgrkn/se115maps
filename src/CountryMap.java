@@ -37,7 +37,7 @@ public class CountryMap {
       sb.append("In this map, the number of routes is: ").append(routes.size()).append("\n");
 
       for (int i = 0; i < routes.size(); i++) {
-         sb.append((i + 1)).append("- ").append(routes.get(i).displayRoute()).append("\n");
+         sb.append((i + 1)).append("- ").append(routes.get(i).displayRoute()).append("\n");    // in this part I looked for internet to find a way to convert to a string and with stringbuilder and appendmethod it is done
       }
 
       return sb.toString(); // Return the routes as a String
